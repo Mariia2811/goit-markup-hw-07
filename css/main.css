@@ -440,6 +440,10 @@ p {
   background-color: rgba(47, 48, 58, 0.8);
 }
 
+.main_section {
+  padding-top: 0;
+}
+
 .primary-button {
   background-color: var(--color-accent);
   font-size: inherit;
